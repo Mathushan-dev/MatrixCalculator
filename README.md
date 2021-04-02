@@ -1,4 +1,4 @@
-# MatrixCalculator
+# Matrix Calculator
 My first project in the C programming language - Matrix calculator, as part of a UCL project.
 
 This application is a matrix calculator that can perform the standard matrix operations to matrices with a maximum row and column size of 1000 unless a lower maximum level is shown below:
